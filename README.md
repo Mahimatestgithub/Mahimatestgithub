@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahima Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Mahimatestgithub/Mahimatestgithub/assets/131277652/202cd76c-c5e6-4ef4-b847-af50b53ed253)
+<img align="right" alt="coding" width="400" src="[![image](https://github.com/Mahimatestgithub/Mahimatestgithub/assets/131277652/202cd76c-c5e6-4ef4-b847-af50b53ed253)](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)
 "
 
 - 🔭 I’m studying Computer Science and Engineering and contributing to frontend for **building web applications.**
