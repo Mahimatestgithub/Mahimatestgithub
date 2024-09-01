@@ -7,7 +7,7 @@
 
 - 🔭 I’m studying Computer Science and Engineering and contributing to frontend for **building web applications.**
   
-- 🌱 I’m currently learning **Next.js,Express.js**
+- 🌱 I’m currently learning **Machine learning and Artificial Intelligence**
 
 - 💻I’m currently working on **🦾Swarm Robotics 🤖 Project**
 
